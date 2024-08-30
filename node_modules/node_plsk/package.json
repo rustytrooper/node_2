@@ -1,0 +1,20 @@
+{
+  "name": "node_plsk",
+  "version": "0.0.0",
+  "description": "simple app to load it on npm",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustytrooper/node_1.git"
+  },
+  "author": "rustytrooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustytrooper/node_1/issues"
+  },
+  "homepage": "https://github.com/rustytrooper/node_1#readme"
+}
